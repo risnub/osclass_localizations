@@ -2,13 +2,18 @@
 # This file is distributed under the same license as the Bender package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-07-08 03:51:31+0000\n"
+"Project-Id-Version: Bender\n"
+"Report-Msgid-Bugs-To: http://osclass.org/\n"
+"POT-Creation-Date: 2016-07-08 11:57+0800\n"
+"PO-Revision-Date: 2016-07-08 12:11+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/0.1\n"
-"Project-Id-Version: Bender\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: 404.php:30
 msgid "Sorry but I can't find the page you're looking for"
@@ -55,7 +60,9 @@ msgid "The preferred size of the logo is 600x100."
 msgstr "Logo 的最佳尺寸是 600x100。"
 
 #: admin/header.php:55
-msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
 msgstr "<strong>注意：</strong>上傳另一個 Logo 將覆蓋現有的 Logo。"
 
 #: admin/header.php:63
@@ -79,11 +86,13 @@ msgid "Please make the aforementioned image folder writable."
 msgstr "請設定前述圖片資料夾為可寫入的。"
 
 #: admin/header.php:85
-msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
 msgstr "在 Unix 環境設定資料夾為可寫入，需要執行這個指令："
 
 #: admin/settings.php:36
-msgid "I would like to contribute to the development of Osclass with a donation of"
+msgid ""
+"I would like to contribute to the development of Osclass with a donation of"
 msgstr "我希望透過贊助對 Osclass 的開發有所幫助"
 
 #: admin/settings.php:41
@@ -119,12 +128,111 @@ msgid "Footer link"
 msgstr "頁尾連結"
 
 #: admin/settings.php:68
-msgid "I want to help Osclass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
-msgstr "我要協助 Osclass 從我的網站透過下列文字連結到 a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a>："
+msgid ""
+"I want to help Osclass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr ""
+"我要協助 Osclass 從我的網站透過下列文字連結到 a href=\"http://osclass.org/\" "
+"target=\"_blank\">osclass.org</a>："
 
 #: admin/settings.php:69
-msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
-msgstr "這個網站驕傲的使用 <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> 開發的 <strong>Osclass 軟體</strong>"
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"這個網站驕傲的使用 <a title=\"Osclass web\" href=\"http://osclass.org/"
+"\">classifieds scripts</a> 開發的 <strong>Osclass 軟體</strong>"
+
+#: admin/settings.php:76
+msgid "Location input"
+msgstr ""
+
+#: admin/settings.php:80
+msgid "Show location input as:"
+msgstr ""
+
+#: admin/settings.php:83
+msgid "Dropdown"
+msgstr ""
+
+#: admin/settings.php:84
+msgid "Autocomplete"
+msgstr ""
+
+#: admin/settings.php:91
+msgid "Ads management"
+msgstr "廣告管理"
+
+#: admin/settings.php:95
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr "在這裡，您可以設定您的網站以顯示廣告並開始產生營收。"
+
+#: admin/settings.php:95
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+"如果您使用使用線上廣告平台，例如 Google Adsense，複製並在此貼上廣告程式碼。"
+
+#: admin/settings.php:101
+msgid "Header 728x90"
+msgstr "標題圖片 728x90"
+
+#: admin/settings.php:105
+msgid ""
+"This ad will be shown at the top of your website, next to the site title and "
+"above the search results. Note that the size of the ad has to be 728x90 "
+"pixels."
+msgstr ""
+"此廣告將顯示在您網站的頂端、網站標題旁邊和搜尋結果的上方。請注意，廣告尺寸建"
+"議 728x90 像素。"
+
+#: admin/settings.php:109
+msgid "Homepage 728x90"
+msgstr "首頁 728x90"
+
+#: admin/settings.php:113
+msgid ""
+"This ad will be shown on the main site of your website. It will appear both "
+"at the top and bottom of your site homepage. Note that the size of the ad "
+"has to be 728x90 pixels."
+msgstr ""
+"此廣告將顯示在您的主網站，它將顯示在網站首頁的頁首和頁尾。請注意，廣告尺寸建"
+"議 728x90 像素。"
+
+#: admin/settings.php:117
+msgid "Search results 728x90 (top of the page)"
+msgstr "搜尋結果 728x90 (網頁頂端)"
+
+#: admin/settings.php:121
+msgid ""
+"This ad will be shown on top of the search results of your site. Note that "
+"the size of the ad has to be 728x90 pixels."
+msgstr "此廣告將顯示在搜尋結果的上方。請注意，廣告尺寸建議 728x90 像素。"
+
+#: admin/settings.php:125
+msgid "Search results 728x90 (middle of the page)"
+msgstr "搜尋結果 728x90 (網頁中間)"
+
+#: admin/settings.php:129
+msgid ""
+"This ad will be shown among the search results of your site. Note that the "
+"size of the ad has to be 728x90 pixels."
+msgstr "此廣告將顯示在網站的搜尋結果中。請注意，廣告尺寸建議 728x90 像素。"
+
+#: admin/settings.php:133
+msgid "Sidebar 300x250"
+msgstr "側邊欄 300x250"
+
+#: admin/settings.php:137
+msgid ""
+"This ad will be shown at the right sidebar of your website, on the product "
+"detail page. Note that the size of the ad has to be 300x350 pixels."
+msgstr ""
+"此廣告將顯示在您網站的右側邊欄的產品詳細頁面。請注意，廣告尺寸建議 300x350 像"
+"素。"
 
 #: admin/settings.php:141
 msgid "Save changes"
@@ -150,7 +258,7 @@ msgstr "訂閱這個搜尋"
 msgid "Subscribe now"
 msgstr "現在訂閱"
 
-#: common/head.php:25 item.php:163 loop-single-premium.php:48
+#: common/head.php:25 item.php:165 loop-single-premium.php:48
 #: loop-single.php:48
 msgid "Delete"
 msgstr "刪除"
@@ -159,11 +267,23 @@ msgstr "刪除"
 msgid "Cancel"
 msgstr "取消"
 
+#: common/head.php:72
+msgid "Previous image"
+msgstr "上一個圖片"
+
+#: common/head.php:73
+msgid "Next image"
+msgstr "下一個圖片"
+
+#: common/head.php:74
+msgid "Close"
+msgstr "關閉"
+
 #: contact.php:31
 msgid "Contact us"
 msgstr "連絡我們"
 
-#: contact.php:40 item-send-friend.php:44 item-sidebar.php:85 item.php:189
+#: contact.php:40 item-send-friend.php:44 item-sidebar.php:85 item.php:191
 #: user-public-sidebar.php:33
 msgid "Your name"
 msgstr "您的姓名"
@@ -185,7 +305,7 @@ msgstr "主旨"
 msgid "Message"
 msgstr "訊息"
 
-#: contact.php:68 item-send-friend.php:87 item-sidebar.php:131 item.php:214
+#: contact.php:68 item-send-friend.php:87 item-sidebar.php:131 item.php:216
 #: user-public-sidebar.php:69
 msgid "Send"
 msgstr "傳送"
@@ -217,6 +337,14 @@ msgstr "發佈免費廣告"
 #: footer.php:65 functions.php:395 user-public-sidebar.php:26
 msgid "Contact"
 msgstr "連絡我們"
+
+#: footer.php:69
+msgid ""
+"This website is proudly using the <a title=\"Osclass web\" href=\"%s"
+"\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr ""
+"這個網站驕傲的使用 <a title=\"Osclass web\" href=\"%s\"> 開發的 </"
+"a><strong>Osclass</strong>軟體"
 
 #: footer.php:74
 msgid "Language:"
@@ -297,6 +425,10 @@ msgstr "移除密碼"
 msgid "Create a new account"
 msgstr "建立一個新的帳號"
 
+#: functions.php:418
+msgid "Public Profile"
+msgstr "公開個人資料"
+
 #: functions.php:453 user-sidebar.php:28
 msgid "Delete account"
 msgstr "刪除帳號"
@@ -337,7 +469,7 @@ msgstr "一般資訊"
 msgid "Category"
 msgstr "分類"
 
-#: item-post.php:65 item.php:202
+#: item-post.php:65 item.php:204
 msgid "Title"
 msgstr "標題"
 
@@ -399,7 +531,7 @@ msgstr "更新"
 msgid "Publish"
 msgstr "發佈"
 
-#: item-send-friend.php:50 item.php:195
+#: item-send-friend.php:50 item.php:197
 msgid "Your e-mail"
 msgstr "您的電子郵件"
 
@@ -448,7 +580,8 @@ msgid "It's your own listing, you can't contact the publisher."
 msgstr "這是您的清單，無法連絡發佈者。"
 
 #: item-sidebar.php:60
-msgid "You must log in or register a new account in order to contact the advertiser"
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
 msgstr "您必須登入或註冊一個新帳號以便連絡廣告主"
 
 #: item-sidebar.php:70
@@ -470,6 +603,10 @@ msgstr "您的電子郵件地址"
 #: item-sidebar.php:93 user-public-sidebar.php:41
 msgid "Phone number"
 msgstr "電話號碼"
+
+#: item-sidebar.php:104
+msgid "Attachment"
+msgstr "附件"
 
 #: item-sidebar.php:125 user-public-sidebar.php:63
 msgid "Enter the words above"
@@ -512,42 +649,57 @@ msgid "Useful information"
 msgstr "有用的資訊"
 
 #: item.php:131
-msgid "Avoid scams by acting locally or paying with PayPal"
-msgstr "請小心洽詢或付款，以免受騙上當。"
+msgid "Avoid scams by acting locally if possible."
+msgstr ""
 
 #: item.php:132
-msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
-msgstr "請不要支付匿名的付款服務，以免受騙上當。"
+msgid "Beware of Paypal or other online payment scams."
+msgstr ""
 
 #: item.php:133
-msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
-msgstr "不要在本國以外地區購買或銷售，小心受騙上當。"
+msgid "DOUBLE-CHECK sender's email address and hyperlinks."
+msgstr ""
 
 #: item.php:134
-msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
-msgstr "本網站從不介入任何交易、支付、運送、保證及托管，亦不提供買家保證或賣家認證。"
+msgid ""
+"NEVER pay with Western Union, Moneygram or other anonymous payment services."
+msgstr ""
 
-#: item.php:141
+#: item.php:135
+msgid ""
+"Be VERY CAREFUL when buying or selling outside of your country. DO NOT "
+"accept cashier cheques from outside your country."
+msgstr ""
+
+#: item.php:136
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"本網站從不介入任何交易、支付、運送、保證及托管，亦不提供買家保證或賣家認證。"
+
+#: item.php:143
 msgid "Related listings"
 msgstr "最近的廣告清單"
 
-#: item.php:152
+#: item.php:154
 msgid "Comments"
 msgstr "留言"
 
-#: item.php:159
+#: item.php:161
 msgid "by"
 msgstr "由"
 
-#: item.php:163
+#: item.php:165
 msgid "Delete your comment"
 msgstr "刪除您的留言"
 
-#: item.php:175
+#: item.php:177
 msgid "Leave your comment (spam and offensive messages will be removed)"
 msgstr "留下您的意見（垃圾及攻擊訊息將被移除）"
 
-#: item.php:208
+#: item.php:210
 msgid "Comment"
 msgstr "留言"
 
@@ -562,6 +714,10 @@ msgstr "啟用"
 #: main.php:38
 msgid "Latest Listings"
 msgstr "最近的廣告清單"
+
+#: main.php:41
+msgid "There aren't listings available at this moment"
+msgstr "現在沒有有效的廣告清單"
 
 #: main.php:46 search.php:81
 msgid "Grid"
@@ -611,6 +767,10 @@ msgstr "未選取，輸入如"
 msgid "There are no results matching \"%s\""
 msgstr "沒有符合 \"%s 的結果"
 
+#: search.php:75
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "顯示第 %1$d ~ %2$d 項，全部共有 %3$d 個廣告"
+
 #: search.php:78
 msgid "Show filters"
 msgstr "顯示搜尋條件"
@@ -618,6 +778,10 @@ msgstr "顯示搜尋條件"
 #: search.php:85
 msgid "Sort by"
 msgstr "排序依"
+
+#: search.php:121
+msgid "Premium listings"
+msgstr "需付費的廣告"
 
 #: search.php:142
 msgid "Other searches that may interest you"
@@ -650,6 +814,10 @@ msgstr "目前的電子郵件"
 #: user-change_email.php:52
 msgid "New e-mail"
 msgstr "新的電子郵件"
+
+#: user-change_email.php:76
+msgid "Email: this field is required"
+msgstr "電子郵件：這個欄位必填"
 
 #: user-change_password.php:45
 msgid "Current password"
@@ -775,122 +943,32 @@ msgstr "顯示功能表"
 msgid "Are you sure you want to delete your account?"
 msgstr "您確定要刪除您的帳號？"
 
+#. Theme Name of the plugin/theme
 msgid "bender"
 msgstr "Bender"
 
-#: functions.php:418
-msgid "Public Profile"
-msgstr "公開個人資料"
-
-#: item-sidebar.php:104
-msgid "Attachment"
-msgstr "附件"
-
-#: main.php:41
-msgid "There aren't listings available at this moment"
-msgstr "現在沒有有效的廣告清單"
-
-#: search.php:75
-msgid "%1$d - %2$d of %3$d listings"
-msgstr "顯示第 %1$d ~ %2$d 項，全部共有 %3$d 個廣告"
-
-#: search.php:121
-msgid "Premium listings"
-msgstr "需付費的廣告"
-
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
 msgid "http://osclass.org/"
 msgstr "http://osclass.org/"
 
+#. Description of the plugin/theme
 msgid "Bender theme"
 msgstr "Bender 佈景主題"
 
+#. Author of the plugin/theme
 msgid "Osclass"
 msgstr "Osclass"
 
-#: common/head.php:74
-msgid "Close"
-msgstr "關閉"
+#~ msgid "Avoid scams by acting locally or paying with PayPal"
+#~ msgstr "請小心洽詢或付款，以免受騙上當。"
 
-#: common/head.php:73
-msgid "Next image"
-msgstr "下一個圖片"
+#~ msgid ""
+#~ "Never pay with Western Union, Moneygram or other anonymous payment "
+#~ "services"
+#~ msgstr "請不要支付匿名的付款服務，以免受騙上當。"
 
-#: common/head.php:72
-msgid "Previous image"
-msgstr "上一個圖片"
-
-#: footer.php:69
-msgid "This website is proudly using the <a title=\"Osclass web\" href=\"%s\">classifieds scripts</a> software <strong>Osclass</strong>"
-msgstr "這個網站驕傲的使用 <a title=\"Osclass web\" href=\"%s\"> 開發的 </a><strong>Osclass</strong>軟體"
-
-#: admin/settings.php:91
-msgid "Ads management"
-msgstr "廣告管理"
-
-#: admin/settings.php:95
-msgid "In this section you can configure your site to display ads and start generating revenue."
-msgstr "在這裡，您可以設定您的網站以顯示廣告並開始產生營收。"
-
-#: admin/settings.php:95
-msgid "If you are using an online advertising platform, such as Google Adsense, copy and paste here the provided code for ads."
-msgstr "如果您使用使用線上廣告平台，例如 Google Adsense，複製並在此貼上廣告程式碼。"
-
-#: admin/settings.php:101
-msgid "Header 728x90"
-msgstr "標題圖片 728x90"
-
-#: admin/settings.php:105
-msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
-msgstr "此廣告將顯示在您網站的頂端、網站標題旁邊和搜尋結果的上方。請注意，廣告尺寸建議 728x90 像素。"
-
-#: admin/settings.php:109
-msgid "Homepage 728x90"
-msgstr "首頁 728x90"
-
-#: admin/settings.php:113
-msgid "This ad will be shown on the main site of your website. It will appear both at the top and bottom of your site homepage. Note that the size of the ad has to be 728x90 pixels."
-msgstr "此廣告將顯示在您的主網站，它將顯示在網站首頁的頁首和頁尾。請注意，廣告尺寸建議 728x90 像素。"
-
-#: admin/settings.php:117
-msgid "Search results 728x90 (top of the page)"
-msgstr "搜尋結果 728x90 (網頁頂端)"
-
-#: admin/settings.php:121
-msgid "This ad will be shown on top of the search results of your site. Note that the size of the ad has to be 728x90 pixels."
-msgstr "此廣告將顯示在搜尋結果的上方。請注意，廣告尺寸建議 728x90 像素。"
-
-#: admin/settings.php:125
-msgid "Search results 728x90 (middle of the page)"
-msgstr "搜尋結果 728x90 (網頁中間)"
-
-#: admin/settings.php:129
-msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
-msgstr "此廣告將顯示在網站的搜尋結果中。請注意，廣告尺寸建議 728x90 像素。"
-
-#: admin/settings.php:133
-msgid "Sidebar 300x250"
-msgstr "側邊欄 300x250"
-
-#: admin/settings.php:137
-msgid "This ad will be shown at the right sidebar of your website, on the product detail page. Note that the size of the ad has to be 300x350 pixels."
-msgstr "此廣告將顯示在您網站的右側邊欄的產品詳細頁面。請注意，廣告尺寸建議 300x350 像素。"
-
-#: user-change_email.php:76
-msgid "Email: this field is required"
-msgstr "電子郵件：這個欄位必填"
-
-#: admin/settings.php:76
-msgid "Location input"
-msgstr ""
-
-#: admin/settings.php:80
-msgid "Show location input as:"
-msgstr ""
-
-#: admin/settings.php:83
-msgid "Dropdown"
-msgstr ""
-
-#: admin/settings.php:84
-msgid "Autocomplete"
-msgstr ""
+#~ msgid ""
+#~ "Don't buy or sell outside of your country. Don't accept cashier cheques "
+#~ "from outside your country"
+#~ msgstr "不要在本國以外地區購買或銷售，小心受騙上當。"
