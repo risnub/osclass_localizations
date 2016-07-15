@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Bender\n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
 "POT-Creation-Date: 2016-07-08 11:57+0800\n"
-"PO-Revision-Date: 2016-07-08 12:11+0800\n"
+"PO-Revision-Date: 2016-07-15 11:47+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -145,19 +145,19 @@ msgstr ""
 
 #: admin/settings.php:76
 msgid "Location input"
-msgstr ""
+msgstr "位置輸入"
 
 #: admin/settings.php:80
 msgid "Show location input as:"
-msgstr ""
+msgstr "位置輸入顯示方式"
 
 #: admin/settings.php:83
 msgid "Dropdown"
-msgstr ""
+msgstr "下拉式清單"
 
 #: admin/settings.php:84
 msgid "Autocomplete"
-msgstr ""
+msgstr "自動完成"
 
 #: admin/settings.php:91
 msgid "Ads management"
@@ -650,26 +650,26 @@ msgstr "有用的資訊"
 
 #: item.php:131
 msgid "Avoid scams by acting locally if possible."
-msgstr ""
+msgstr "境內交易可減低詐騙風險"
 
 #: item.php:132
 msgid "Beware of Paypal or other online payment scams."
-msgstr ""
+msgstr "留意是否Paypal或其他在線支付詐騙"
 
 #: item.php:133
 msgid "DOUBLE-CHECK sender's email address and hyperlinks."
-msgstr ""
+msgstr "仔細檢查對方的電子郵件地址和超鏈接"
 
 #: item.php:134
 msgid ""
 "NEVER pay with Western Union, Moneygram or other anonymous payment services."
-msgstr ""
+msgstr "避免採用匿名支付服務，例如Western Union, Moneygram之類"
 
 #: item.php:135
 msgid ""
 "Be VERY CAREFUL when buying or selling outside of your country. DO NOT "
 "accept cashier cheques from outside your country."
-msgstr ""
+msgstr "處理境外交易時要加倍警惕。避免接納境外銀行本票."
 
 #: item.php:136
 msgid ""

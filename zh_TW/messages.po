@@ -5,14 +5,14 @@ msgstr ""
 "Project-Id-Version: Flash Messages\n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
 "POT-Creation-Date: 2016-07-08 11:56+0800\n"
-"PO-Revision-Date: 2016-07-08 11:57+0800\n"
+"PO-Revision-Date: 2016-07-15 14:03+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Poedit 1.8.7.1\n"
 
 #: oc-admin/admins.php:30 oc-admin/items.php:38
@@ -458,10 +458,10 @@ msgid "All fields are required."
 msgstr "所有欄位都不能留空。"
 
 #: oc-admin/controller/settings/permalinks.php:424
-#, fuzzy
 msgid "One field was not updated"
 msgid_plural "%s fields were not updated"
 msgstr[0] "一個欄位無法更新"
+msgstr[1] "%s個欄位無法更新"
 
 #: oc-admin/controller/settings/permalinks.php:427
 #: oc-admin/controller/settings/permalinks.php:475
@@ -561,86 +561,86 @@ msgid "The email couldn't be updated, at least one title should not be empty"
 msgstr "這個電子郵件無法更新，至少標題不能留空"
 
 #: oc-admin/items.php:59
-#, fuzzy
 msgid "%d listing has been enabled"
 msgid_plural "%d listings have been enabled"
-msgstr[0] "%d 廣告清單已經開啟"
+msgstr[0] "已經從清單開啟%d個廣告"
+msgstr[1] "已經從清單開啟%d個廣告"
 
 #: oc-admin/items.php:71
-#, fuzzy
 msgid "%d listing has been disabled"
 msgid_plural "%d listings have been disabled"
-msgstr[0] "%d 廣告清單已經關閉"
+msgstr[0] "已經從清單關閉%d個廣告"
+msgstr[1] "已經從清單關閉%d個廣告"
 
 #: oc-admin/items.php:83
-#, fuzzy
 msgid "%d listing has been activated"
 msgid_plural "%d listings have been activated"
-msgstr[0] "%d 廣告清單已經啟用"
+msgstr[0] "已經從清單啟用%d個廣告"
+msgstr[1] "已經從清單啟用%d個廣告"
 
 #: oc-admin/items.php:95
 msgid "%d listing has been deactivated"
-msgstr "%d 廣告清單已經關閉"
+msgstr "已經從清單關閉%d個廣告"
 
 #: oc-admin/items.php:107
-#, fuzzy
 msgid "%d listing has been marked as premium"
 msgid_plural "%d listings have been marked as premium"
 msgstr[0] "%d 廣告已標示有額外費用"
+msgstr[1] "%d 廣告已標示有額外費用"
 
 #: oc-admin/items.php:119 oc-admin/items.php:144
-#, fuzzy
 msgid "%d change has been made"
 msgid_plural "%d changes have been made"
-msgstr[0] "%d 已經變更"
+msgstr[0] "已經進行%d個變更"
+msgstr[1] "已經進行%d個變更"
 
 #: oc-admin/items.php:131
-#, fuzzy
 msgid "%d listing has been marked as spam"
 msgid_plural "%d listings have been marked as spam"
 msgstr[0] "%d 廣告清單已標為垃圾訊息"
+msgstr[1] "%d 廣告清單已標為垃圾訊息"
 
 #: oc-admin/items.php:162
-#, fuzzy
 msgid "%d listing has been deleted"
 msgid_plural "%d listings have been deleted"
 msgstr[0] "%d 廣告已經刪除"
+msgstr[1] "%d 廣告已經刪除"
 
 #: oc-admin/items.php:179
-#, fuzzy
 msgid "%d listing has been unmarked as spam"
 msgid_plural "%d listings have been unmarked as spam"
 msgstr[0] "%d 已經清除垃圾訊息的標示"
+msgstr[1] "%d 已經清除垃圾訊息的標示"
 
 #: oc-admin/items.php:196
-#, fuzzy
 msgid "%d listing has been unmarked as missclassified"
 msgid_plural "%d listings have been unmarked as missclassified"
 msgstr[0] "%d 已經清除錯誤分類的標示"
+msgstr[1] "%d 已經清除錯誤分類的標示"
 
 #: oc-admin/items.php:213
-#, fuzzy
 msgid "%d listing has been unmarked as duplicated"
 msgid_plural "%d listings have been unmarked as duplicated"
 msgstr[0] "%d 已經清除重覆的標示"
+msgstr[1] "%d 已經清除已經清除%d個過期的標示重覆的標示"
 
 #: oc-admin/items.php:230
-#, fuzzy
 msgid "%d listing has been unmarked as expired"
 msgid_plural "%d listings have been unmarked as expired"
-msgstr[0] "%d 已經清除過期的標示"
+msgstr[0] "已經清除%d個過期的標示"
+msgstr[1] "已經清除%d個過期的標示"
 
 #: oc-admin/items.php:247
-#, fuzzy
 msgid "%d listing has been unmarked as offensive"
 msgid_plural "%d listings have been unmarked as offensive"
-msgstr[0] "%d 已經清除攻擊的標示"
+msgstr[0] "已經清除%d個攻擊的標示"
+msgstr[1] "已經清除%d個攻擊的標示"
 
 #: oc-admin/items.php:264
-#, fuzzy
 msgid "%d listing has been unmarked"
 msgid_plural "%d listings have been unmarked"
 msgstr[0] "%d 廣告的標示已經被解除"
+msgstr[1] "%d 廣告的標示已經被解除"
 
 #: oc-admin/items.php:289
 msgid "The listing has been deleted"
@@ -1117,60 +1117,60 @@ msgid "No users have been selected"
 msgstr "沒有選取的使用者"
 
 #: oc-admin/users.php:149
-#, fuzzy
 msgid "Activation email sent to one user"
 msgid_plural "Activation email sent to %s users"
 msgstr[0] "啟用電子郵件已發送至一位使用者"
+msgstr[1] "啟用電子郵件已發送至%s位使用者"
 
 #: oc-admin/users.php:170
 msgid "No users have been activated"
 msgstr "沒有啟用的使用者"
 
 #: oc-admin/users.php:172
-#, fuzzy
 msgid "One user has been activated"
 msgid_plural "%s users have been activated"
 msgstr[0] "一位使用者已經啟用"
+msgstr[1] "%s位使用者已經啟用"
 
 #: oc-admin/users.php:195
 msgid "No users have been deactivated"
 msgstr "沒有被移除啟用的使用者"
 
 #: oc-admin/users.php:197
-#, fuzzy
 msgid "One user has been deactivated"
 msgid_plural "%s users have been deactivated"
 msgstr[0] "一位使用者已經取消啟用"
+msgstr[1] "%s位使用者已經取消啟用"
 
 #: oc-admin/users.php:219
 msgid "No users have been enabled"
 msgstr "沒有有效的使用者"
 
 #: oc-admin/users.php:221
-#, fuzzy
 msgid "One user has been unblocked"
 msgid_plural "%s users have been unblocked"
 msgstr[0] "一位使用者已經取消封鎖"
+msgstr[1] "%s位使用者已經取消封鎖"
 
 #: oc-admin/users.php:243
 msgid "No users have been disabled"
 msgstr "沒有無效的使用者"
 
 #: oc-admin/users.php:245
-#, fuzzy
 msgid "One user has been blocked"
 msgid_plural "%s users have been blocked"
 msgstr[0] "一位使用者已經被封鎖"
+msgstr[1] "%s位使用者已經被封鎖"
 
 #: oc-admin/users.php:270
 msgid "No users have been deleted"
 msgstr "沒有被刪除的使用者"
 
 #: oc-admin/users.php:272
-#, fuzzy
 msgid "One user has been deleted"
 msgid_plural "%s users have been deleted"
 msgstr[0] "一位使用者已經刪除"
+msgstr[1] "%s位使用者已經刪除"
 
 #: oc-admin/users.php:283 oc-admin/users.php:317
 msgid "Alert id isn't in the correct format"
@@ -1181,30 +1181,30 @@ msgid "No alerts have been deleted"
 msgstr "沒有通知被刪除"
 
 #: oc-admin/users.php:300
-#, fuzzy
 msgid "One alert has been deleted"
 msgid_plural "%s alerts have been deleted"
 msgstr[0] "一個通知被刪除"
+msgstr[1] "%s個通知被刪除"
 
 #: oc-admin/users.php:337
 msgid "No alerts have been activated"
 msgstr "沒有啟用的通知"
 
 #: oc-admin/users.php:339
-#, fuzzy
 msgid "One alert has been activated"
 msgid_plural "%s alerts have been activated"
 msgstr[0] "一個通知已啟用"
+msgstr[1] "%s個通知已啟用"
 
 #: oc-admin/users.php:343
 msgid "No alerts have been deactivated"
 msgstr "沒有移除啟用的通知"
 
 #: oc-admin/users.php:345
-#, fuzzy
 msgid "One alert has been deactivated"
 msgid_plural "%s alerts have been deactivated"
 msgstr[0] "一個通知被移除啟用"
+msgstr[1] "%s個通知被移除啟用"
 
 #: oc-admin/users.php:383
 msgid "User settings have been updated"
@@ -1227,10 +1227,10 @@ msgid "No rules have been deleted"
 msgstr "沒有被刪除的規則"
 
 #: oc-admin/users.php:569
-#, fuzzy
 msgid "One ban rule has been deleted"
 msgid_plural "%s ban rules have been deleted"
 msgstr[0] "一個限制規則被刪除"
+msgstr[1] "%s個限制規則被刪除"
 
 #: oc-includes/osclass/ItemActions.php:91
 #: oc-includes/osclass/ItemActions.php:305
@@ -1487,7 +1487,7 @@ msgstr "您的郵件已發送。謝謝您連絡我們！"
 
 #: oc-includes/osclass/controller/contact.php:160
 msgid "Sorry, your email cannot be sent due to system problems at this moment!"
-msgstr ""
+msgstr "很抱歉！現在系統未能於此時發送電子郵件"
 
 #: oc-includes/osclass/controller/item.php:51
 #: oc-includes/osclass/controller/item.php:100
