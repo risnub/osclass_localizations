@@ -21,8 +21,8 @@
 
 function locale_zh_TW_info() {
     return array(
-         'name'            => 'Chinese (Taiwan)'
-        ,'short_name'      => 'Chinese'
+         'name'            => '中文（台灣）'
+        ,'short_name'      => '中文'
         ,'description'     => 'Chinese (Taiwan) translation'
         ,'version'         => 'Osclass 3.6.0'
         ,'author_name'     => 'Osclass'
