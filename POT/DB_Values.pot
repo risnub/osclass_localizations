@@ -4,11 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  \n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
-"POT-Creation-Date: 2016-07-18 09:45:55+00:00\n"
+"POT-Creation-Date: 2016-07-20 05:56:48+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-07-18 05:45++0800\n"
+"PO-Revision-Date: 2016-07-20 01:56++0800\n"
 "Last-Translator: Translations <translations@osclass.org>\n"
 "Language-Team: Translations <translations@osclass.org>\n"
 
@@ -37,7 +37,7 @@ msgid "Tsuen Wan District"
 msgstr ""
 
 #: index.php:10
-msgid "North America"
+msgid "Sale or Wanted"
 msgstr ""
 
 #: index.php:11
@@ -49,7 +49,7 @@ msgid "South America"
 msgstr ""
 
 #: index.php:13
-msgid "Asia"
+msgid "Eastern District"
 msgstr ""
 
 #: index.php:14
@@ -65,7 +65,7 @@ msgid "Australia and South Pacific"
 msgstr ""
 
 #: index.php:17
-msgid "Eastern District"
+msgid "Asia"
 msgstr ""
 
 #: index.php:18
@@ -97,53 +97,57 @@ msgid "Tai Po District"
 msgstr ""
 
 #: index.php:25
-msgid "Central and Western District"
-msgstr ""
-
-#: index.php:26
-msgid "Kowloon City District"
-msgstr ""
-
-#: index.php:27
-msgid "Kwun Tong District"
-msgstr ""
-
-#: index.php:28
-msgid "Sham Shui Po District"
-msgstr ""
-
-#: index.php:29
-msgid "Wong Tai Sin District"
-msgstr ""
-
-#: index.php:30
-msgid "Yau Tsim Mong District"
-msgstr ""
-
-#: index.php:31
-msgid "Kwai Tsing District"
-msgstr ""
-
-#: index.php:32
-msgid "North District"
-msgstr ""
-
-#: index.php:33
-msgid "Sha Tin District"
-msgstr ""
-
-#: index.php:34
-msgid "Tuen Mun District"
-msgstr ""
-
-#: index.php:35
 msgid "Kowloon"
 msgstr ""
 
+#: index.php:26
+msgid "Central and Western District"
+msgstr ""
+
+#: index.php:27
+msgid "Kowloon City District"
+msgstr ""
+
+#: index.php:28
+msgid "Kwun Tong District"
+msgstr ""
+
+#: index.php:29
+msgid "Sham Shui Po District"
+msgstr ""
+
+#: index.php:30
+msgid "Wong Tai Sin District"
+msgstr ""
+
+#: index.php:31
+msgid "Yau Tsim Mong District"
+msgstr ""
+
+#: index.php:32
+msgid "Kwai Tsing District"
+msgstr ""
+
+#: index.php:33
+msgid "North District"
+msgstr ""
+
+#: index.php:34
+msgid "Sha Tin District"
+msgstr ""
+
+#: index.php:35
+msgid "Tuen Mun District"
+msgstr ""
+
 #: index.php:36
-msgid "Hong Kong Island"
+msgid "North America"
 msgstr ""
 
 #: index.php:37
+msgid "Hong Kong Island"
+msgstr ""
+
+#: index.php:38
 msgid "Outside Hong Kong"
 msgstr ""

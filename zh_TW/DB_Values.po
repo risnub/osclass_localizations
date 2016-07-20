@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
-"POT-Creation-Date: 2016-07-18 17:48+0800\n"
-"PO-Revision-Date: 2016-07-18 17:50+0800\n"
+"POT-Creation-Date: 2016-07-20 13:57+0800\n"
+"PO-Revision-Date: 2016-07-20 13:58+0800\n"
 "Last-Translator: \n"
 "Language-Team: Translations <translations@osclass.org>\n"
 "Language: zh_TW\n"
@@ -33,15 +33,15 @@ msgstr "元朗"
 
 #: index.php:8
 msgid "Sale"
-msgstr "出售"
+msgstr "放售"
 
 #: index.php:9
 msgid "Tsuen Wan District"
 msgstr "荃灣"
 
 #: index.php:10
-msgid "North America"
-msgstr "北美洲"
+msgid "Sale or Wanted"
+msgstr "徵求 / 放售"
 
 #: index.php:11
 msgid "Africa"
@@ -52,8 +52,8 @@ msgid "South America"
 msgstr "南美洲"
 
 #: index.php:13
-msgid "Asia"
-msgstr "亞洲"
+msgid "Eastern District"
+msgstr "東區"
 
 #: index.php:14
 msgid "New Territories"
@@ -68,8 +68,8 @@ msgid "Australia and South Pacific"
 msgstr "澳洲及南太平洋"
 
 #: index.php:17
-msgid "Eastern District"
-msgstr "東區"
+msgid "Asia"
+msgstr "亞洲"
 
 #: index.php:18
 msgid "Southern District"
@@ -100,53 +100,57 @@ msgid "Tai Po District"
 msgstr "大埔"
 
 #: index.php:25
-msgid "Central and Western District"
-msgstr "中西區"
-
-#: index.php:26
-msgid "Kowloon City District"
-msgstr "九龍城"
-
-#: index.php:27
-msgid "Kwun Tong District"
-msgstr "觀塘"
-
-#: index.php:28
-msgid "Sham Shui Po District"
-msgstr "深水埗"
-
-#: index.php:29
-msgid "Wong Tai Sin District"
-msgstr "黃大仙"
-
-#: index.php:30
-msgid "Yau Tsim Mong District"
-msgstr "油尖旺"
-
-#: index.php:31
-msgid "Kwai Tsing District"
-msgstr "葵青區"
-
-#: index.php:32
-msgid "North District"
-msgstr "北區"
-
-#: index.php:33
-msgid "Sha Tin District"
-msgstr "沙田"
-
-#: index.php:34
-msgid "Tuen Mun District"
-msgstr "屯門"
-
-#: index.php:35
 msgid "Kowloon"
 msgstr "九龍"
 
+#: index.php:26
+msgid "Central and Western District"
+msgstr "中西區"
+
+#: index.php:27
+msgid "Kowloon City District"
+msgstr "九龍城"
+
+#: index.php:28
+msgid "Kwun Tong District"
+msgstr "觀塘"
+
+#: index.php:29
+msgid "Sham Shui Po District"
+msgstr "深水埗"
+
+#: index.php:30
+msgid "Wong Tai Sin District"
+msgstr "黃大仙"
+
+#: index.php:31
+msgid "Yau Tsim Mong District"
+msgstr "油尖旺"
+
+#: index.php:32
+msgid "Kwai Tsing District"
+msgstr "葵青區"
+
+#: index.php:33
+msgid "North District"
+msgstr "北區"
+
+#: index.php:34
+msgid "Sha Tin District"
+msgstr "沙田"
+
+#: index.php:35
+msgid "Tuen Mun District"
+msgstr "屯門"
+
 #: index.php:36
+msgid "North America"
+msgstr "北美洲"
+
+#: index.php:37
 msgid "Hong Kong Island"
 msgstr "香港島"
 
-#: index.php:37
+#: index.php:38
 msgid "Outside Hong Kong"
-msgstr "香港"
+msgstr "香港以外"
