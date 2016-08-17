@@ -4,11 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  \n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
-"POT-Creation-Date: 2016-07-07 04:17:17+00:00\n"
+"POT-Creation-Date: 2016-08-17 03:14:53+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-07-07 12:17++0800\n"
+"PO-Revision-Date: 2016-08-17 11:14++0800\n"
 "Last-Translator: Translations <translations@osclass.org>\n"
 "Language-Team: Translations <translations@osclass.org>\n"
 
@@ -20,7 +20,7 @@ msgstr ""
 msgid "We are sorry for any inconvenience. %s is undergoing maintenance."
 msgstr ""
 
-#: oc-admin/admins.php:322 oc-admin/emails.php:128 oc-admin/languages.php:363
+#: oc-admin/admins.php:322 oc-admin/emails.php:128 oc-admin/languages.php:365
 #: oc-admin/themes/modern/appearance/widgets.php:86
 #: oc-admin/themes/modern/categories/index.php:336
 #: oc-admin/themes/modern/fields/index.php:136
@@ -37,7 +37,7 @@ msgid "Edit"
 msgstr ""
 
 #: oc-admin/admins.php:323 oc-admin/admins.php:363 oc-admin/comments.php:257
-#: oc-admin/items.php:822 oc-admin/languages.php:366 oc-admin/languages.php:422
+#: oc-admin/items.php:822 oc-admin/languages.php:368 oc-admin/languages.php:424
 #: oc-admin/media.php:135 oc-admin/pages.php:277 oc-admin/plugins.php:333
 #: oc-admin/themes/modern/admins/index.php:175
 #: oc-admin/themes/modern/admins/index.php:186
@@ -93,7 +93,7 @@ msgid "Delete"
 msgstr ""
 
 #: oc-admin/admins.php:362 oc-admin/comments.php:256 oc-admin/items.php:821
-#: oc-admin/languages.php:417 oc-admin/media.php:134 oc-admin/pages.php:276
+#: oc-admin/languages.php:419 oc-admin/media.php:134 oc-admin/pages.php:276
 #: oc-admin/themes/modern/admins/index.php:180
 #: oc-admin/themes/modern/comments/index.php:186
 #: oc-admin/themes/modern/items/index.php:407
@@ -230,7 +230,7 @@ msgstr ""
 msgid "Checked updates"
 msgstr ""
 
-#: oc-admin/ajax/ajax.php:571 oc-includes/osclass/utils.php:2079
+#: oc-admin/ajax/ajax.php:571 oc-includes/osclass/utils.php:2081
 msgid "No external sources are allowed"
 msgstr ""
 
@@ -246,7 +246,7 @@ msgstr ""
 msgid "You don't have the necessary permissions"
 msgstr ""
 
-#: oc-admin/ajax/ajax.php:733 oc-includes/osclass/controller/ajax.php:326
+#: oc-admin/ajax/ajax.php:733 oc-includes/osclass/controller/ajax.php:346
 msgid "no action defined"
 msgstr ""
 
@@ -419,45 +419,45 @@ msgstr ""
 msgid "Are you sure you want to %s the selected listings?"
 msgstr ""
 
-#: oc-admin/languages.php:364
+#: oc-admin/languages.php:366
 msgid "Disable (website)"
 msgstr ""
 
-#: oc-admin/languages.php:364
+#: oc-admin/languages.php:366
 msgid "Enable (website)"
 msgstr ""
 
-#: oc-admin/languages.php:365 oc-admin/languages.php:421
+#: oc-admin/languages.php:367 oc-admin/languages.php:423
 msgid "Disable (oc-admin)"
 msgstr ""
 
-#: oc-admin/languages.php:365 oc-admin/languages.php:420
+#: oc-admin/languages.php:367 oc-admin/languages.php:422
 msgid "Enable (oc-admin)"
 msgstr ""
 
-#: oc-admin/languages.php:378
+#: oc-admin/languages.php:380
 msgid "Update here"
 msgstr ""
 
-#: oc-admin/languages.php:385 oc-admin/languages.php:386
+#: oc-admin/languages.php:387 oc-admin/languages.php:388
 msgid "Yes"
 msgstr ""
 
-#: oc-admin/languages.php:385 oc-admin/languages.php:386
+#: oc-admin/languages.php:387 oc-admin/languages.php:388
 msgid "No"
 msgstr ""
 
-#: oc-admin/languages.php:418 oc-admin/languages.php:419
 #: oc-admin/languages.php:420 oc-admin/languages.php:421
-#: oc-admin/languages.php:422
+#: oc-admin/languages.php:422 oc-admin/languages.php:423
+#: oc-admin/languages.php:424
 msgid "Are you sure you want to %s the selected languages?"
 msgstr ""
 
-#: oc-admin/languages.php:418
+#: oc-admin/languages.php:420
 msgid "Enable (Website)"
 msgstr ""
 
-#: oc-admin/languages.php:419
+#: oc-admin/languages.php:421
 msgid "Disable (Website)"
 msgstr ""
 
@@ -1178,9 +1178,9 @@ msgstr ""
 #: oc-includes/osclass/classes/datatables/ItemsDataTable.php:137
 #: oc-includes/osclass/classes/datatables/ItemsDataTable.php:198
 #: oc-includes/osclass/classes/datatables/PagesDataTable.php:56
-#: oc-includes/osclass/emails.php:752 oc-includes/osclass/emails.php:757
-#: oc-includes/osclass/emails.php:839 oc-includes/osclass/emails.php:844
-#: oc-includes/osclass/emails.php:935 oc-includes/osclass/emails.php:940
+#: oc-includes/osclass/emails.php:768 oc-includes/osclass/emails.php:773
+#: oc-includes/osclass/emails.php:855 oc-includes/osclass/emails.php:860
+#: oc-includes/osclass/emails.php:951 oc-includes/osclass/emails.php:956
 #: oc-includes/osclass/frm/Item.form.class.php:415
 #: oc-includes/osclass/frm/Page.form.class.php:57
 msgid "Title"
@@ -1463,9 +1463,9 @@ msgstr ""
 #: oc-admin/themes/modern/plugins/index.php:114
 #: oc-admin/themes/modern/plugins/index.php:187
 #: oc-admin/themes/modern/settings/currencies.php:142
-#: oc-includes/osclass/emails.php:753 oc-includes/osclass/emails.php:758
-#: oc-includes/osclass/emails.php:840 oc-includes/osclass/emails.php:845
-#: oc-includes/osclass/emails.php:936 oc-includes/osclass/emails.php:941
+#: oc-includes/osclass/emails.php:769 oc-includes/osclass/emails.php:774
+#: oc-includes/osclass/emails.php:856 oc-includes/osclass/emails.php:861
+#: oc-includes/osclass/emails.php:952 oc-includes/osclass/emails.php:957
 #: oc-includes/osclass/frm/Category.form.class.php:115
 #: oc-includes/osclass/frm/Item.form.class.php:426
 msgid "Description"
@@ -3811,9 +3811,9 @@ msgid "Feed"
 msgstr ""
 
 #: oc-admin/themes/modern/settings/permalinks.php:495
-#: oc-includes/osclass/emails.php:748 oc-includes/osclass/emails.php:750
-#: oc-includes/osclass/emails.php:835 oc-includes/osclass/emails.php:837
-#: oc-includes/osclass/emails.php:931 oc-includes/osclass/emails.php:933
+#: oc-includes/osclass/emails.php:764 oc-includes/osclass/emails.php:766
+#: oc-includes/osclass/emails.php:851 oc-includes/osclass/emails.php:853
+#: oc-includes/osclass/emails.php:947 oc-includes/osclass/emails.php:949
 msgid "Language"
 msgstr ""
 
@@ -5008,122 +5008,126 @@ msgid "Title of your site"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:61
-msgid "Current date"
+msgid "Social Media Link to your site"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:62
-msgid "Hour"
+msgid "Current date"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:63
-msgid "User ip address"
+msgid "Hour"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:64
-msgid "Comment author name"
+msgid "User ip address"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:65
-msgid "Comment author email"
+msgid "Comment author name"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:66
-msgid "Comment title"
+msgid "Comment author email"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:67
-msgid "Comment text content"
+msgid "Comment title"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:68
-msgid "Comment body"
+msgid "Comment text content"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:69
-msgid "Listing url"
+msgid "Comment body"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:70
-msgid "Listing list"
+msgid "Listing url"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:71
-msgid "Listing title"
+msgid "Listing list"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:72
-msgid "Listing id"
+msgid "Listing title"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:73
-msgid "Link for edit listing"
+msgid "Listing id"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:74
-msgid "Url for edit listing"
+msgid "Link for edit listing"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:75
-msgid "Delete listing link"
+msgid "Url for edit listing"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:76
-msgid "Delete listing url"
+msgid "Delete listing link"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:77
-msgid "Change user password link"
+msgid "Delete listing url"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:78
-msgid "change user password url"
+msgid "Change user password link"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:79
-msgid "Date time"
+msgid "change user password url"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:80
-msgid "Name of the friend who wants send"
+msgid "Date time"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:81
-msgid "Email of the friend who wants send"
+msgid "Name of the friend who wants send"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:82
-msgid "Question about your listing"
+msgid "Email of the friend who wants send"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:83
-msgid "Contact name"
+msgid "Question about your listing"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:84
-msgid "User phone number"
+msgid "Contact name"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:85
-msgid "Listing description"
+msgid "User phone number"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:86
-msgid "Listing description in all languages"
+msgid "Listing description"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:87
-msgid "Listing price"
+msgid "Listing description in all languages"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:88
-msgid "Listing country"
+msgid "Listing price"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:89
-msgid "Listing region"
+msgid "Listing country"
 msgstr ""
 
 #: oc-includes/osclass/classes/EmailVariables.php:90
+msgid "Listing region"
+msgstr ""
+
+#: oc-includes/osclass/classes/EmailVariables.php:91
 msgid "Listing city"
 msgstr ""
 
@@ -5259,36 +5263,36 @@ msgstr ""
 msgid "Session timed out"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:74 oc-includes/osclass/emails.php:120
-#: oc-includes/osclass/emails.php:166 oc-includes/osclass/emails.php:212
+#: oc-includes/osclass/emails.php:89 oc-includes/osclass/emails.php:135
+#: oc-includes/osclass/emails.php:181 oc-includes/osclass/emails.php:227
 msgid "unsubscribe alert"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:715
+#: oc-includes/osclass/emails.php:731
 msgid "Admin mail system"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:1258
+#: oc-includes/osclass/emails.php:1274
 msgid "<p>Dear {WEB_TITLE} admin,</p>"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:1260
+#: oc-includes/osclass/emails.php:1276
 msgid "{WEB_TITLE} - Your site has upgraded to Osclass {VERSION}"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:1261
+#: oc-includes/osclass/emails.php:1277
 msgid ""
 "<p>Your site at {WEB_LINK} has been updated automatically to Osclass "
 "{VERSION}</p>"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:1263
+#: oc-includes/osclass/emails.php:1279
 msgid ""
 "<p>There were some minor errors removing temporary files. Please manually "
 "remove the \"oc-content/downloads/oc-temp\" folder</p>"
 msgstr ""
 
-#: oc-includes/osclass/emails.php:1266
+#: oc-includes/osclass/emails.php:1282
 msgid ""
 "{WEB_TITLE} - We failed trying to upgrade your site to Osclass {VERSION}"
 msgstr ""
@@ -6870,68 +6874,72 @@ msgid ""
 "\">Need more help?</a>"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1901
+#: oc-includes/osclass/utils.php:479
+msgid "Receive EE Classifieds Updates on Twitter"
+msgstr ""
+
+#: oc-includes/osclass/utils.php:1903
 msgid "Everything looks good! Your Osclass installation is up-to-date"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1904
+#: oc-includes/osclass/utils.php:1906
 msgid ""
 "Nearly everything looks good! Your Osclass installation is up-to-date, but "
 "there were some errors removing temporary files. Please manually remove the "
 "\"oc-content/downloads/oc-temp\" folder"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1910
+#: oc-includes/osclass/utils.php:1912
 msgid "Problems when upgrading the database"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1914 oc-includes/osclass/utils.php:2196
+#: oc-includes/osclass/utils.php:1916 oc-includes/osclass/utils.php:2198
 msgid "Problems when copying files. Please check your permissions. "
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1918 oc-includes/osclass/utils.php:2207
+#: oc-includes/osclass/utils.php:1920 oc-includes/osclass/utils.php:2209
 msgid "Nothing to copy"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1923 oc-includes/osclass/utils.php:2211
+#: oc-includes/osclass/utils.php:1925 oc-includes/osclass/utils.php:2213
 msgid "Unzip failed"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1928 oc-includes/osclass/utils.php:2215
+#: oc-includes/osclass/utils.php:1930 oc-includes/osclass/utils.php:2217
 msgid "Download failed"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1933 oc-includes/osclass/utils.php:2228
+#: oc-includes/osclass/utils.php:1935 oc-includes/osclass/utils.php:2230
 msgid "Missing download URL"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:1939
+#: oc-includes/osclass/utils.php:1941
 msgid ""
 "We had some errors upgrading your database. The follwing queries failed:"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:2189
+#: oc-includes/osclass/utils.php:2191
 msgid "Everything looks good!"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:2192
+#: oc-includes/osclass/utils.php:2194
 msgid ""
 "Nearly everything looks good! but there were some errors removing temporary "
 "files. Please manually remove the \\\"oc-content/downloads/oc-temp\\\" folder"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:2201
+#: oc-includes/osclass/utils.php:2203
 msgid ""
 "NOTE: Web user and destination folder user is not the same, you might have "
 "an issue there. <br/>Do this in your console:<br/>chown -R %s:%s %s"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:2220
+#: oc-includes/osclass/utils.php:2222
 msgid ""
 "This is a paid item, you need to buy it before you are able to download it"
 msgstr ""
 
-#: oc-includes/osclass/utils.php:2223
+#: oc-includes/osclass/utils.php:2225
 msgid "Input code not valid"
 msgstr ""
 

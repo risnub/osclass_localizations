@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Core\n"
 "Report-Msgid-Bugs-To: http://osclass.org/\n"
-"POT-Creation-Date: 2016-07-08 11:55+0800\n"
-"PO-Revision-Date: 2016-07-15 11:21+0800\n"
+"POT-Creation-Date: 2016-08-17 11:20+0800\n"
+"PO-Revision-Date: 2016-08-17 11:27+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -23,7 +23,7 @@ msgstr "維護 &raquo; %s"
 msgid "We are sorry for any inconvenience. %s is undergoing maintenance."
 msgstr "很抱歉造成您的不便，%s 正在維護中。"
 
-#: oc-admin/admins.php:322 oc-admin/emails.php:128 oc-admin/languages.php:363
+#: oc-admin/admins.php:322 oc-admin/emails.php:128 oc-admin/languages.php:365
 #: oc-admin/themes/modern/appearance/widgets.php:86
 #: oc-admin/themes/modern/categories/index.php:336
 #: oc-admin/themes/modern/fields/index.php:136
@@ -40,7 +40,7 @@ msgid "Edit"
 msgstr "編輯"
 
 #: oc-admin/admins.php:323 oc-admin/admins.php:363 oc-admin/comments.php:257
-#: oc-admin/items.php:822 oc-admin/languages.php:366 oc-admin/languages.php:422
+#: oc-admin/items.php:822 oc-admin/languages.php:368 oc-admin/languages.php:424
 #: oc-admin/media.php:135 oc-admin/pages.php:277 oc-admin/plugins.php:333
 #: oc-admin/themes/modern/admins/index.php:175
 #: oc-admin/themes/modern/admins/index.php:186
@@ -96,7 +96,7 @@ msgid "Delete"
 msgstr "刪除"
 
 #: oc-admin/admins.php:362 oc-admin/comments.php:256 oc-admin/items.php:821
-#: oc-admin/languages.php:417 oc-admin/media.php:134 oc-admin/pages.php:276
+#: oc-admin/languages.php:419 oc-admin/media.php:134 oc-admin/pages.php:276
 #: oc-admin/themes/modern/admins/index.php:180
 #: oc-admin/themes/modern/comments/index.php:186
 #: oc-admin/themes/modern/items/index.php:407
@@ -233,7 +233,7 @@ msgstr "暫時無法連上版本更新服務"
 msgid "Checked updates"
 msgstr "可更新數目"
 
-#: oc-admin/ajax/ajax.php:571 oc-includes/osclass/utils.php:2079
+#: oc-admin/ajax/ajax.php:571 oc-includes/osclass/utils.php:2081
 msgid "No external sources are allowed"
 msgstr "禁止外部資源"
 
@@ -249,7 +249,7 @@ msgstr "市集沒有資料"
 msgid "You don't have the necessary permissions"
 msgstr "您沒有權限"
 
-#: oc-admin/ajax/ajax.php:733 oc-includes/osclass/controller/ajax.php:326
+#: oc-admin/ajax/ajax.php:733 oc-includes/osclass/controller/ajax.php:346
 msgid "no action defined"
 msgstr "沒有定義這項操作"
 
@@ -421,45 +421,45 @@ msgstr "舉報為垃圾訊息"
 msgid "Are you sure you want to %s the selected listings?"
 msgstr "您確定要 %s 選取的清單？"
 
-#: oc-admin/languages.php:364
+#: oc-admin/languages.php:366
 msgid "Disable (website)"
 msgstr "關閉 (前台網站)"
 
-#: oc-admin/languages.php:364
+#: oc-admin/languages.php:366
 msgid "Enable (website)"
 msgstr "開啟 (前台網站)"
 
-#: oc-admin/languages.php:365 oc-admin/languages.php:421
+#: oc-admin/languages.php:367 oc-admin/languages.php:423
 msgid "Disable (oc-admin)"
 msgstr "關閉 (管理面板)"
 
-#: oc-admin/languages.php:365 oc-admin/languages.php:420
+#: oc-admin/languages.php:367 oc-admin/languages.php:422
 msgid "Enable (oc-admin)"
 msgstr "開啟 (管理面板)"
 
-#: oc-admin/languages.php:378
+#: oc-admin/languages.php:380
 msgid "Update here"
 msgstr "在此更新"
 
-#: oc-admin/languages.php:385 oc-admin/languages.php:386
+#: oc-admin/languages.php:387 oc-admin/languages.php:388
 msgid "Yes"
 msgstr "是的"
 
-#: oc-admin/languages.php:385 oc-admin/languages.php:386
+#: oc-admin/languages.php:387 oc-admin/languages.php:388
 msgid "No"
 msgstr "不是"
 
-#: oc-admin/languages.php:418 oc-admin/languages.php:419
 #: oc-admin/languages.php:420 oc-admin/languages.php:421
-#: oc-admin/languages.php:422
+#: oc-admin/languages.php:422 oc-admin/languages.php:423
+#: oc-admin/languages.php:424
 msgid "Are you sure you want to %s the selected languages?"
 msgstr "您確定要 %s 選取的語言？"
 
-#: oc-admin/languages.php:418
+#: oc-admin/languages.php:420
 msgid "Enable (Website)"
 msgstr "開啟 (前台網站)"
 
-#: oc-admin/languages.php:419
+#: oc-admin/languages.php:421
 msgid "Disable (Website)"
 msgstr "關閉 (前台網站)"
 
@@ -1196,9 +1196,9 @@ msgstr "編輯線上留言 &raquo; %s"
 #: oc-includes/osclass/classes/datatables/ItemsDataTable.php:137
 #: oc-includes/osclass/classes/datatables/ItemsDataTable.php:198
 #: oc-includes/osclass/classes/datatables/PagesDataTable.php:56
-#: oc-includes/osclass/emails.php:752 oc-includes/osclass/emails.php:757
-#: oc-includes/osclass/emails.php:839 oc-includes/osclass/emails.php:844
-#: oc-includes/osclass/emails.php:935 oc-includes/osclass/emails.php:940
+#: oc-includes/osclass/emails.php:768 oc-includes/osclass/emails.php:773
+#: oc-includes/osclass/emails.php:855 oc-includes/osclass/emails.php:860
+#: oc-includes/osclass/emails.php:951 oc-includes/osclass/emails.php:956
 #: oc-includes/osclass/frm/Item.form.class.php:415
 #: oc-includes/osclass/frm/Page.form.class.php:57
 msgid "Title"
@@ -1485,9 +1485,9 @@ msgstr "在這裡輸入標題"
 #: oc-admin/themes/modern/plugins/index.php:114
 #: oc-admin/themes/modern/plugins/index.php:187
 #: oc-admin/themes/modern/settings/currencies.php:142
-#: oc-includes/osclass/emails.php:753 oc-includes/osclass/emails.php:758
-#: oc-includes/osclass/emails.php:840 oc-includes/osclass/emails.php:845
-#: oc-includes/osclass/emails.php:936 oc-includes/osclass/emails.php:941
+#: oc-includes/osclass/emails.php:769 oc-includes/osclass/emails.php:774
+#: oc-includes/osclass/emails.php:856 oc-includes/osclass/emails.php:861
+#: oc-includes/osclass/emails.php:952 oc-includes/osclass/emails.php:957
 #: oc-includes/osclass/frm/Category.form.class.php:115
 #: oc-includes/osclass/frm/Item.form.class.php:426
 msgid "Description"
@@ -3876,9 +3876,9 @@ msgid "Feed"
 msgstr "Feed"
 
 #: oc-admin/themes/modern/settings/permalinks.php:495
-#: oc-includes/osclass/emails.php:748 oc-includes/osclass/emails.php:750
-#: oc-includes/osclass/emails.php:835 oc-includes/osclass/emails.php:837
-#: oc-includes/osclass/emails.php:931 oc-includes/osclass/emails.php:933
+#: oc-includes/osclass/emails.php:764 oc-includes/osclass/emails.php:766
+#: oc-includes/osclass/emails.php:851 oc-includes/osclass/emails.php:853
+#: oc-includes/osclass/emails.php:947 oc-includes/osclass/emails.php:949
 msgid "Language"
 msgstr "語言"
 
@@ -5109,122 +5109,126 @@ msgid "Title of your site"
 msgstr "您的網站標題"
 
 #: oc-includes/osclass/classes/EmailVariables.php:61
+msgid "Social Media Link to your site"
+msgstr "相關社交平台連結"
+
+#: oc-includes/osclass/classes/EmailVariables.php:62
 msgid "Current date"
 msgstr "目前日期"
 
-#: oc-includes/osclass/classes/EmailVariables.php:62
+#: oc-includes/osclass/classes/EmailVariables.php:63
 msgid "Hour"
 msgstr "小時"
 
-#: oc-includes/osclass/classes/EmailVariables.php:63
+#: oc-includes/osclass/classes/EmailVariables.php:64
 msgid "User ip address"
 msgstr "使用者 IP 位址"
 
-#: oc-includes/osclass/classes/EmailVariables.php:64
+#: oc-includes/osclass/classes/EmailVariables.php:65
 msgid "Comment author name"
 msgstr "評論作者名稱"
 
-#: oc-includes/osclass/classes/EmailVariables.php:65
+#: oc-includes/osclass/classes/EmailVariables.php:66
 msgid "Comment author email"
 msgstr "評論作者電子郵件"
 
-#: oc-includes/osclass/classes/EmailVariables.php:66
+#: oc-includes/osclass/classes/EmailVariables.php:67
 msgid "Comment title"
 msgstr "評論標題"
 
-#: oc-includes/osclass/classes/EmailVariables.php:67
+#: oc-includes/osclass/classes/EmailVariables.php:68
 msgid "Comment text content"
 msgstr "評論文字內容"
 
-#: oc-includes/osclass/classes/EmailVariables.php:68
+#: oc-includes/osclass/classes/EmailVariables.php:69
 msgid "Comment body"
 msgstr "評論內文"
 
-#: oc-includes/osclass/classes/EmailVariables.php:69
+#: oc-includes/osclass/classes/EmailVariables.php:70
 msgid "Listing url"
 msgstr "廣告清單規則"
 
-#: oc-includes/osclass/classes/EmailVariables.php:70
+#: oc-includes/osclass/classes/EmailVariables.php:71
 msgid "Listing list"
 msgstr "廣告清單"
 
-#: oc-includes/osclass/classes/EmailVariables.php:71
+#: oc-includes/osclass/classes/EmailVariables.php:72
 msgid "Listing title"
 msgstr "清單標題"
 
-#: oc-includes/osclass/classes/EmailVariables.php:72
+#: oc-includes/osclass/classes/EmailVariables.php:73
 msgid "Listing id"
 msgstr "清單編號"
 
-#: oc-includes/osclass/classes/EmailVariables.php:73
+#: oc-includes/osclass/classes/EmailVariables.php:74
 msgid "Link for edit listing"
 msgstr "編輯廣告清單的連結"
 
-#: oc-includes/osclass/classes/EmailVariables.php:74
+#: oc-includes/osclass/classes/EmailVariables.php:75
 msgid "Url for edit listing"
 msgstr "編輯廣告清單的網址"
 
-#: oc-includes/osclass/classes/EmailVariables.php:75
+#: oc-includes/osclass/classes/EmailVariables.php:76
 msgid "Delete listing link"
 msgstr "刪除廣告清單的連結"
 
-#: oc-includes/osclass/classes/EmailVariables.php:76
+#: oc-includes/osclass/classes/EmailVariables.php:77
 msgid "Delete listing url"
 msgstr "刪除廣告清單的網址"
 
-#: oc-includes/osclass/classes/EmailVariables.php:77
+#: oc-includes/osclass/classes/EmailVariables.php:78
 msgid "Change user password link"
 msgstr "變更使用者密碼的連結"
 
-#: oc-includes/osclass/classes/EmailVariables.php:78
+#: oc-includes/osclass/classes/EmailVariables.php:79
 msgid "change user password url"
 msgstr "變更使用者密碼的網址"
 
-#: oc-includes/osclass/classes/EmailVariables.php:79
+#: oc-includes/osclass/classes/EmailVariables.php:80
 msgid "Date time"
 msgstr "刪除時間"
 
-#: oc-includes/osclass/classes/EmailVariables.php:80
+#: oc-includes/osclass/classes/EmailVariables.php:81
 msgid "Name of the friend who wants send"
 msgstr "傳送給朋友，他的名稱是..."
 
-#: oc-includes/osclass/classes/EmailVariables.php:81
+#: oc-includes/osclass/classes/EmailVariables.php:82
 msgid "Email of the friend who wants send"
 msgstr "傳送給朋友，他的電子郵件是..."
 
-#: oc-includes/osclass/classes/EmailVariables.php:82
+#: oc-includes/osclass/classes/EmailVariables.php:83
 msgid "Question about your listing"
 msgstr "關於廣告清單的問題"
 
-#: oc-includes/osclass/classes/EmailVariables.php:83
+#: oc-includes/osclass/classes/EmailVariables.php:84
 msgid "Contact name"
 msgstr "連絡名稱"
 
-#: oc-includes/osclass/classes/EmailVariables.php:84
+#: oc-includes/osclass/classes/EmailVariables.php:85
 msgid "User phone number"
 msgstr "使用者電話號碼"
 
-#: oc-includes/osclass/classes/EmailVariables.php:85
+#: oc-includes/osclass/classes/EmailVariables.php:86
 msgid "Listing description"
 msgstr "廣告清單說明"
 
-#: oc-includes/osclass/classes/EmailVariables.php:86
+#: oc-includes/osclass/classes/EmailVariables.php:87
 msgid "Listing description in all languages"
 msgstr "所有語言通用的廣告清單說明"
 
-#: oc-includes/osclass/classes/EmailVariables.php:87
+#: oc-includes/osclass/classes/EmailVariables.php:88
 msgid "Listing price"
 msgstr "清單中的價格"
 
-#: oc-includes/osclass/classes/EmailVariables.php:88
+#: oc-includes/osclass/classes/EmailVariables.php:89
 msgid "Listing country"
 msgstr "清單中的國家"
 
-#: oc-includes/osclass/classes/EmailVariables.php:89
+#: oc-includes/osclass/classes/EmailVariables.php:90
 msgid "Listing region"
 msgstr "清單中的地區"
 
-#: oc-includes/osclass/classes/EmailVariables.php:90
+#: oc-includes/osclass/classes/EmailVariables.php:91
 msgid "Listing city"
 msgstr "清單中的城市"
 
@@ -5360,30 +5364,30 @@ msgstr "最近新增的清單在"
 msgid "Session timed out"
 msgstr "連線逾時"
 
-#: oc-includes/osclass/emails.php:74 oc-includes/osclass/emails.php:120
-#: oc-includes/osclass/emails.php:166 oc-includes/osclass/emails.php:212
+#: oc-includes/osclass/emails.php:89 oc-includes/osclass/emails.php:135
+#: oc-includes/osclass/emails.php:181 oc-includes/osclass/emails.php:227
 msgid "unsubscribe alert"
 msgstr "取消訂閱通知"
 
-#: oc-includes/osclass/emails.php:715
+#: oc-includes/osclass/emails.php:731
 msgid "Admin mail system"
 msgstr "管理員電子郵件系統"
 
-#: oc-includes/osclass/emails.php:1258
+#: oc-includes/osclass/emails.php:1274
 msgid "<p>Dear {WEB_TITLE} admin,</p>"
 msgstr "<p>親愛的 {WEB_TITLE} 管理員：</p>"
 
-#: oc-includes/osclass/emails.php:1260
+#: oc-includes/osclass/emails.php:1276
 msgid "{WEB_TITLE} - Your site has upgraded to Osclass {VERSION}"
 msgstr "{WEB_TITLE} - 您的網站已升級到 Osclass {VERSION}"
 
-#: oc-includes/osclass/emails.php:1261
+#: oc-includes/osclass/emails.php:1277
 msgid ""
 "<p>Your site at {WEB_LINK} has been updated automatically to Osclass "
 "{VERSION}</p>"
 msgstr "<p>您位於 {WEB_LINK} 的網站已經自動更新到 Osclass {VERSION}</p>"
 
-#: oc-includes/osclass/emails.php:1263
+#: oc-includes/osclass/emails.php:1279
 msgid ""
 "<p>There were some minor errors removing temporary files. Please manually "
 "remove the \"oc-content/downloads/oc-temp\" folder</p>"
@@ -5391,7 +5395,7 @@ msgstr ""
 "<p>移除暫存檔時發生小錯誤。請手動移除 \"oc-content/downloads/oc-temp\" 資料夾"
 "</p>"
 
-#: oc-includes/osclass/emails.php:1266
+#: oc-includes/osclass/emails.php:1282
 msgid ""
 "{WEB_TITLE} - We failed trying to upgrade your site to Osclass {VERSION}"
 msgstr "{WEB_TITLE} - 沒有成功升級您的網站到 Osclass {VERSION}"
@@ -6999,11 +7003,15 @@ msgstr ""
 "Osclass 已經成功更新。<a href=\"http://forums.osclass.org/\">需要更多說明？</"
 "a>"
 
-#: oc-includes/osclass/utils.php:1901
+#: oc-includes/osclass/utils.php:479
+msgid "Receive EE Classifieds Updates on Twitter"
+msgstr "從twitter看網站最新消息"
+
+#: oc-includes/osclass/utils.php:1903
 msgid "Everything looks good! Your Osclass installation is up-to-date"
 msgstr "很好！您的 Osclass 是最新的版本"
 
-#: oc-includes/osclass/utils.php:1904
+#: oc-includes/osclass/utils.php:1906
 msgid ""
 "Nearly everything looks good! Your Osclass installation is up-to-date, but "
 "there were some errors removing temporary files. Please manually remove the "
@@ -7012,40 +7020,40 @@ msgstr ""
 "您的 Osclass 似乎已經安裝完成，但在移除暫存檔時發生小錯誤，請手動移除 \"oc-"
 "content/downloads/oc-temp\" 資料夾"
 
-#: oc-includes/osclass/utils.php:1910
+#: oc-includes/osclass/utils.php:1912
 msgid "Problems when upgrading the database"
 msgstr "升級資料庫時發生問題"
 
-#: oc-includes/osclass/utils.php:1914 oc-includes/osclass/utils.php:2196
+#: oc-includes/osclass/utils.php:1916 oc-includes/osclass/utils.php:2198
 msgid "Problems when copying files. Please check your permissions. "
 msgstr "複製檔案時發生問題，請檢查您的權限。"
 
-#: oc-includes/osclass/utils.php:1918 oc-includes/osclass/utils.php:2207
+#: oc-includes/osclass/utils.php:1920 oc-includes/osclass/utils.php:2209
 msgid "Nothing to copy"
 msgstr "沒有複製來源"
 
-#: oc-includes/osclass/utils.php:1923 oc-includes/osclass/utils.php:2211
+#: oc-includes/osclass/utils.php:1925 oc-includes/osclass/utils.php:2213
 msgid "Unzip failed"
 msgstr "解壓縮失敗"
 
-#: oc-includes/osclass/utils.php:1928 oc-includes/osclass/utils.php:2215
+#: oc-includes/osclass/utils.php:1930 oc-includes/osclass/utils.php:2217
 msgid "Download failed"
 msgstr "下載失敗"
 
-#: oc-includes/osclass/utils.php:1933 oc-includes/osclass/utils.php:2228
+#: oc-includes/osclass/utils.php:1935 oc-includes/osclass/utils.php:2230
 msgid "Missing download URL"
 msgstr "下載網址有誤"
 
-#: oc-includes/osclass/utils.php:1939
+#: oc-includes/osclass/utils.php:1941
 msgid ""
 "We had some errors upgrading your database. The follwing queries failed:"
 msgstr "升級資料庫時發生錯誤，錯誤的指令如下："
 
-#: oc-includes/osclass/utils.php:2189
+#: oc-includes/osclass/utils.php:2191
 msgid "Everything looks good!"
 msgstr "很好！一切順利！"
 
-#: oc-includes/osclass/utils.php:2192
+#: oc-includes/osclass/utils.php:2194
 msgid ""
 "Nearly everything looks good! but there were some errors removing temporary "
 "files. Please manually remove the \\\"oc-content/downloads/oc-temp\\\" folder"
@@ -7053,7 +7061,7 @@ msgstr ""
 "程序進行相當順利，但在移除暫存檔時發生小錯誤，請手動移除 \\\"oc-content/"
 "downloads/oc-temp\\\" 資料夾"
 
-#: oc-includes/osclass/utils.php:2201
+#: oc-includes/osclass/utils.php:2203
 msgid ""
 "NOTE: Web user and destination folder user is not the same, you might have "
 "an issue there. <br/>Do this in your console:<br/>chown -R %s:%s %s"
@@ -7061,12 +7069,12 @@ msgstr ""
 "注意：網站使用者和目的資料夾不符，您可能遇到問題。<br/>在您的控制台這樣作："
 "<br/>chown -R %s:%s %s"
 
-#: oc-includes/osclass/utils.php:2220
+#: oc-includes/osclass/utils.php:2222
 msgid ""
 "This is a paid item, you need to buy it before you are able to download it"
 msgstr "這是付費項目，在您下載之前必須先購買"
 
-#: oc-includes/osclass/utils.php:2223
+#: oc-includes/osclass/utils.php:2225
 msgid "Input code not valid"
 msgstr "輸入代碼無效"
 
